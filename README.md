@@ -1,7 +1,7 @@
 ## Conversion_Comparison
 
 #### Technology Stack:
-BigQuery (CTE, data aggregation, function, joins)
+BigQuery (CTE, regular expressions, data aggregation, function, joins)
 
 #### Project Description:
 In this project, I utilized BigQuery to analyze conversion data from a publicly available dataset collected using Google Analytics 4, specifically from the Google online store.
