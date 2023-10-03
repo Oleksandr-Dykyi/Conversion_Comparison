@@ -9,9 +9,9 @@ In this project, I utilized BigQuery to analyze conversion data from a publicly 
 To accomplish this, I extracted page paths (the path to the page without domain addresses and link parameters) from the session start events.
 
 For each unique session start page, I calculated the following 2020-based metrics:
-The number of unique sessions among distinct users.
-The number of purchases.
-The conversion rate from session start to purchase.
+1. The number of unique sessions among distinct users.
+2. The number of purchases.
+3. The conversion rate from session start to purchase.
 
 Since session start and purchase events can have different URLs, I merged them using user IDs and session IDs for accurate analysis.
 
