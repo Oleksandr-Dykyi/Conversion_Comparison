@@ -20,4 +20,4 @@ Since session start and purchase events can have different URLs, I merged them u
 [Source data from GA 4](https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=ga4_obfuscated_sample_ecommerce&t=events_20210131&page=table&project=hardy-scarab-392910)
 
 #### Skills:
-SQL, BigQuery, Google Analytics 4
+Data Analysis · SQL · Google BigQuery · Google Analytics 4 · Big Data · Big Data Analytics
